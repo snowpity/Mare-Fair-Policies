@@ -1,4 +1,4 @@
-- All holders of badges agree to abide by the [Mare Fair Code of Conduct](Code of Conduct.md)
+- All holders of badges agree to abide by the [Mare Fair Code of Conduct](Code%20of%20Conduct.md)
 - All badges remain the property of Snowpity, Inc., until the completion of the event
 - All sales are final and refunds will only be issued in exceptional circumstances
 - Badge transfers are allowed and we will work with you to transfer your badge.  Please contact [registration@marefair.org](registration@marefair.org) with these requests
