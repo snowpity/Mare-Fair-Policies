@@ -1,0 +1,5 @@
+- All holders of badges agree to abide by the [Mare Fair Code of Conduct](#code-of-conduct)
+- All badges remain the property of Snowpity, Inc., until the completion of the event
+- All sales are final and refunds will only be issued in exceptional circumstances
+- Badge transfers are allowed and we will work with you to transfer your badge.  Please contact [registration@marefair.org](registration@marefair.org) with these requests
+- Please monitor your e-mail for any changes to the event (including scheduling or Code of Conduct modifications).  Any material changes may come with an opportunity for a refund if such changes prevent your ability to attend the event
