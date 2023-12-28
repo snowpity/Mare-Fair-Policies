@@ -1,0 +1,41 @@
+- Mare Fair is an event being held by Snowpity, Inc., for the purposes of raising money for equine charities and allowing artists within the My Little Pony fandom the opportunity to exhibit their work
+- All hotel policies, Orange County ordinances, and Florida laws must be followed at all times
+- Any action or behavior that causes significant interference with convention operations or adversely affects the relationship of Snowpity, Inc., with its guests, its venues, or the public is strictly forbidden and may result in permanent suspension of ability to attend future events held by Snowpity, Inc.
+- Smoking and vaping are not allowed on hotel property
+- Consumption of alcoholic beverages is not allowed outside of designated areas while on hotel property
+- Do not display or show any adult themed matter in public areas of the hotel
+- Appropriate clothing must be worn while in public areas
+  - Adequate footwear must be worn
+  - Clothing which publicly exposes or provides the illusion of genitalia, buttocks, or breasts is not allowed
+  - Clothing shall not depict any of the following:
+    - Any form of sexual intercourse
+    - Genitalia
+    - Sexual bodily fluids
+    - Overtly grotesque images (gore, extreme filth, bodily waste, etc.)
+- The following forms of harassment are not tolerated: Non-consensual physical contact, stalking, deliberate disruption of any convention space or other events, threats (verbal or written), loud profanity or slurs in public areas
+- Photography or recording for commercial purposes is not allowed unless you receive express written consent from Snowpity, Inc.
+- Taking actions which pose a hazard to oneself, others, or the orderly operation of the convention are not allowed
+- The following items are prohibited:
+  - Functional firearms
+  - Realistic replica firearms that may be confused for functional firearms
+  - Functional projectile weapons (blowguns, crossbows, longbows, slingshots, etc.)
+  - Sharpened metal-bladed weapons
+  - Explosives
+  - Blunt weapons (brass knuckles, clubs, nunchaku, etc.)
+  - Drones
+  - Any other items that may be prohibited by hotel policy
+- The playing of music at excessive volume within public areas of the hotel is not allowed
+- Badges are assigned to the individual listed on them; at no time may you share your badge with another person
+- A valid badge is required for entry to the vendor hall, concert, all panel rooms, and any other event held at Mare Fair even if a separate admission charge or reservation is required
+- Badges must be clearly visible while in the convention area and must be shown to Mare Fair or hotel staff upon request
+- Any badges found to be modified, tampered, or reproduced will thereby automatically be revoked
+- Badge holders consent to allow Snowpity, Inc., and any approved affiliates the right to take photographs and recordings of attendees, events, panels, and public areas for private and commercial use by any means in all media now known or hereafter devised worldwide in perpetuity
+- Snowpity, Inc., make no warranties or guarantees concerning goods or services provided to attendees by individual vendors; such transactions are between the individual vendors and attendees only and do not involve Mare Fair or Snowpity, Inc.
+- Snowpity, Inc., is not responsible for lost, stolen, or damaged property
+- Snowpity, Inc., is not responsible for any injuries sustained during the course of Mare Fair
+- Snowpity, Inc., is not responsible for what occurs within the confines of private hotel rooms.  Incidents that occur in these room ares the sole responsibility of the individual to whom the room is rented, including payment of any and all damages
+- Any advertisements for get-togethers, meetups, or other gatherings that occur during the convention are welcome as long as they are tasteful and posted in an area and in such a manner that will cause no damage to the hotel
+- The possibility for last minute changes exists.  Panels, events, activities, and vendor hall access may be canceled, rescheduled, relocated, or restricted in the number of attendees allowed to be present and other modifications may be made to the event without prior notification or compensation.  Every effort will be made to announce any changes via e-mail, Mare Fair’s website, and social media channels
+- This Code of Conduct may change at any time; if any changes are made before the event, all attendees will be notified via e-mail.  If any changes are made during the event, in addition to e-mail notification we will do our best to ensure word of the changes is distributed to all attendees
+- Failure to abide by this Code of Conduct may result in the offender’s badge being revoked and confiscated, security/police action, and/or the offender being permanently banned from all future events held by Snowpity, Inc.
+- Any area within the convention space must be vacated immediately upon request of event or hotel staff
