@@ -3,5 +3,5 @@
 - A press badge grants you early access to programming
 - A press badge does not give preferred or early access to any sponsor only events or any event/panel that requires an additional fee
 - Recording of panels by members of the press is allowed only if no panelist objects.  Please obtain the permission of the panelists prior to the panel starting
-- Recording is allowed within all common areas of the convention at all time
+- Recording is allowed within all common areas of the convention at all times
 - Contact the Public Relations team if you need a press badge at [pr@marefair.org](mailto:pr@marefair.org)
