@@ -2,4 +2,5 @@
 - All badges remain the property of Snowpity, Inc., until the completion of the event
 - All sales are final and refunds will only be issued in exceptional circumstances
 - Badge transfers are allowed and we will work with you to transfer your badge.  Please contact [registration@marefair.org](registration@marefair.org) with these requests
+- Under no circumstances are you to re-sell your badge unless express permission has been granted by Snowpity, Inc.
 - Please monitor your e-mail for any changes to the event (including scheduling or Code of Conduct modifications).  Any material changes may come with an opportunity for a refund if such changes prevent your ability to attend the event
