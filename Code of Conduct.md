@@ -37,9 +37,9 @@
 - Snowpity, Inc., is not responsible for lost, stolen, or damaged property
 - Snowpity, Inc., is not responsible for any injuries sustained during the course of Mare Fair
 - Snowpity, Inc., is not responsible for what occurs within the confines of private hotel rooms.  Incidents that occur in these rooms are the sole responsibility of the individual to whom the room is rented, including payment of any and all damages
+- Any area within the convention space must be vacated immediately upon request of event or hotel staff
 - Any advertisements for get-togethers, meetups, or other gatherings that occur during the convention are welcome as long as they are tasteful and posted in an area and in such a manner that will cause no damage to the hotel
 - The possibility for last minute changes exists.  Panels, events, activities, and vendor hall access may be canceled, rescheduled, relocated, or restricted in the number of attendees allowed to be present and other modifications may be made to the event without prior notification or compensation.  Every effort will be made to announce any changes via e-mail, Mare Fair’s website, and social media channels
 - This Code of Conduct may change at any time; if any changes are made before the event, all attendees will be notified via e-mail.  If any changes are made during the event, in addition to e-mail notification we will do our best to ensure word of the changes is distributed to all attendees
 - Failure to abide by this Code of Conduct may result in the offender’s badge and/or badge backer being revoked and confiscated, security/police action, and/or the offender being permanently banned from all future events held by Snowpity, Inc.
-- Any area within the convention space must be vacated immediately upon request of event or hotel staff
 - You agree to indemnify, defend, and hold harmless Snowpity, Inc., from any and all damages, losses, claims, liabilities, charges, suits, penalties, costs, and/or expenses, including but not limited to court costs, attorney fees, and expenses, resulting from any act (whether intentional or not), omission, or negligence of any injury to yourself
