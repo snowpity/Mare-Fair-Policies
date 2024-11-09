@@ -12,6 +12,7 @@
 		- Genitalia
 		- Sexual bodily fluids
 		- Overtly grotesque images (gore, extreme filth, bodily waste, etc.)
+- Mare Fair is a pony first convention; displaying any political symbols or slogans is strongly discouraged.  You may be asked to remove or cover these items from convention spaces
 - The following forms of harassment are not tolerated: Non-consensual physical contact, stalking, deliberate disruption of any convention space or other events, threats (verbal or written), loud profanity or slurs in public areas
 - Photography or recording for commercial purposes is not allowed unless you receive express written consent from Snowpity, Inc.
 - Taking actions which pose a hazard to oneself, others, or the orderly operation of the convention are not allowed
