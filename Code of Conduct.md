@@ -12,9 +12,9 @@
 		- Genitalia
 		- Sexual bodily fluids
 		- Overtly grotesque images (gore, extreme filth, bodily waste, etc.)
-- Mare Fair is a pony first convention; please keep this in mind when deciding what attire, cosplays, etc., to wear at the convention
+- Mare Fair is convention focused on My Little Pony; please keep this in mind when deciding what attire, cosplays, accessories, etc., to wear or exhibit at the convention
 	- It is probably not a good idea to wear a non-pony fursuit as it detracts from this pony focus
-- Mare Fair is a pony first convention; displaying any political symbols or slogans is strongly discouraged.  You may be asked to remove or cover these items from convention spaces
+	- Displaying any political symbols or slogans is strongly discouraged.  You may be asked to remove or cover these items from convention spaces
 - The following forms of harassment are not tolerated: Non-consensual physical contact, stalking, deliberate disruption of any convention space or other events, threats (verbal or written), loud profanity or slurs in public areas
 - Photography or recording for commercial purposes is not allowed unless you receive express written consent from Snowpity, Inc.
 - Taking actions which pose a hazard to oneself, others, or the orderly operation of the convention are not allowed
