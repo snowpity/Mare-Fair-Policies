@@ -42,6 +42,8 @@ Hotel spaces or property may not be damaged or modified in any way. Any vendor t
 
 **Use of Snowpity, Inc., logos and other branding**: Before using or selling logos or branding (including mascots) that belong to Snowpity, Inc., explicit permission must be received from the Snowpity, Inc., Board of Directors.
 
+**Hold Harmless**: You agree to indemnify, defend, and hold harmless Snowpity, Inc., from any and all damages, losses, claims, liabilities, charges, suits, penalties, costs, and/or expenses, including but not limited to court costs, attorney fees, and expenses, resulting from any act (whether intentional or not), omission, or negligence of any injury to yourself, your staff, or your customers.
+
 **Final Judgment of Rules and Policies**: The Vendor Hall Lead and Head Pony In Charge have the final say on any ruling or interpretation of the policies contained in this document, without question.
 
 **Changes**: Snowpity, Inc., reserves the right to change or amend any portion of these policies, with or without notice to the vendor, at any time. Every effort to notify vendors of such changes will be made, but cannot guarantee such notifications.
