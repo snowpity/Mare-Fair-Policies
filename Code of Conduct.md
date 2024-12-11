@@ -1,5 +1,5 @@
-- Mare Fair is an event being held by [Snowpity, Inc.,](https://snowpity.org/) for the purposes of raising money for equine charities and allowing artists within the My Little Pony fandom the opportunity to exhibit their work
-- All hotel policies, Orange County ordinances, and Florida laws must be followed at all times; all attendees and participants must be at least 18 years old
+- Mare Fair is an event being held by [Snowpity, Inc.,](https://snowpity.org/) for the purposes of raising money for equine charities and allowing artists within the My Little Pony fandom the opportunity to exhibit their work; all attendees and participants must be at least 18 years old
+- All hotel policies, Orange County ordinances, and Florida laws must be followed at all times
 - Any action or behavior that causes significant interference with convention operations or adversely affects the relationship of Snowpity, Inc., with its guests, its venues, or the public is strictly forbidden and may result in permanent suspension of ability to attend future events held by Snowpity, Inc.
 - Smoking and vaping are not allowed on hotel property
 - Consumption of alcoholic beverages is not allowed outside of designated areas while on hotel property
