@@ -36,7 +36,7 @@
 - All convention staff, regardless of their position, must comply with badge checks at all times (except in cases of emergency)
   - Do not assume the person checking badges knows who you are
 - You are responsible for providing your own food, transportation, and lodging
-- In the event of any accident or injury sustained while volunteering, you authorized Snowpity, Inc., to seek and obtain medical treatment
+- In the event of any accident or injury sustained while volunteering, you authorize Snowpity, Inc., to seek and obtain medical treatment
 - You agree to indemnify, defend, and hold harmless Snowpity, Inc., from any and all damages, losses, claims, liabilities, charges, suits, penalties, costs, and/or expenses, including but not limited to court costs, attorney fees, and expenses, resulting from any act (whether intentional or not), omission, or negligence of any injury to yourself
 - If any part of this document becomes void or unenforceable, the rest of this document shall remain in full force
 - Stay healthy: Make sure to eat regular meals and get enough sleep so you aren’t dozing off at your post
