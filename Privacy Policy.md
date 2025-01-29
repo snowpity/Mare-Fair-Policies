@@ -135,6 +135,7 @@ We have collected the following categories of personal information in the past t
 | I. Education information                                               | Student records and directory information                                                                                                                                                                |    No     |
 | J. Inferences drawn from collected personal information                | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics                          |    No     |
 | K. Sensitive personal Information                                      |                                                                                                                                                                                                          |    No     |
+
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 
 - Receiving help through our customer support channels;
