@@ -35,7 +35,7 @@
 - Badges must be clearly visible while in the convention area and must be shown to Mare Fair or hotel staff upon request
 - Any badges found to be modified, tampered, or reproduced will thereby automatically be revoked
 - Badge holders consent to allow Snowpity, Inc., and any approved affiliates the right to take photographs and recordings of attendees, events, panels, and public areas for private and commercial use by any means in all media now known or hereafter devised worldwide in perpetuity
-- Badge backers hang behind your attendee badge and allow off-hours access to the vendor hall, AD vendor hall, or other areas of the con as defined on the badge backer
+- Badge backers hang behind your attendee badge and may allow additional access to other areas of the con as defined on the badge backer
 	- Badge backers act as part of your badge and do not grant any access without a valid badge
 	- Badge backers remain the property of Snowpity, Inc., until the completion of the event
 - Snowpity, Inc., makes no warranties or guarantees concerning goods or services provided to attendees by individual vendors; such transactions are between the individual vendors and attendees only and do not involve Mare Fair or Snowpity, Inc.
