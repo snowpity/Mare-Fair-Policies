@@ -16,7 +16,7 @@ Failure to comply with any and all takedown requests from Mare Fair staff may re
 
 **Early Access**: Vendors and artists will be given early access to the vendor hall space. You must have checked in and received your badge before you can begin setting up your table. All vendors and assistants will be provided with tags (custom badge, badge ribbon, sticker, or badge backer) that signify your status as a vendor or assistant. You must display your badge and tag at all times, especially during vendor only set-up hours. No badge sharing of any kind is permitted. Each vendor and vendor assistant is required to have their own badge and tag as a means of entry.
 
-**Cost of Tables**: All full vendor hall tables cost $35 and **DO NOT** include convention registrations. All vendors and assistants will be required to purchase a registration in order to be able to enter the vendor hall space. Tables are standard 6 x 2-foot tables.
+**Cost of Tables**: Vendor hall tables **DO NOT** include convention registrations. All vendors and assistants will be required to purchase a registration in order to be able to enter the vendor hall space. Tables are standard 6 x 2-foot tables.
 
 **Cancellations**: Each table is registered to a single vendor or artist at purchase. No purchased table may be transferred to another vendor or artist. If the owning vendor or artist needs to cancel, or back out, please email [vendor@marefair.org](mailto:vendor@marefair.org) immediately. Refunds will be observed on a case by case basis.
 
