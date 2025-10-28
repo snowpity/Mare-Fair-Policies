@@ -1,8 +1,13 @@
 - Mare Fair is an event being held by [Snowpity, Inc.,](https://snowpity.org/) for the purposes of raising money for equine charities and allowing artists within the My Little Pony fandom the opportunity to exhibit their work
 - All attendees and participants must be at least 18 years old
 - All hotel policies, Orange County ordinances, and Florida laws must be followed at all times
+- Mare Fair is an inclusive event built on the spirit of friendship, respect, and kindness
+	- **Symbols, language, or behavior associated with hate groups, promoting the supremacy of one race over another, Nazism, or any ideology promoting hate or discrimination have no place at Mare Fair**
+	- This includes—but is not limited to—imagery such as swastikas, SS insignia, or other hate symbols, as well as advocacy for or minimization of such ideologies
+	- Anyone engaging in such conduct may have their badge revoked without refund and may be banned from future events
 - Any action or behavior that causes significant interference with convention operations or adversely affects the relationship of Snowpity, Inc., with its guests, its venues, or the public is strictly forbidden and may result in permanent suspension of ability to attend future events held by Snowpity, Inc.
 - Smoking and vaping are not allowed on hotel property
+- Please avoid excessive use of substances that are impairing while enjoying Mare Fair.  If staff believe you are excessively intoxicated, you may be asked to leave the convention space
 - Consumption of alcoholic beverages is not allowed outside of designated areas while on hotel property
 - Do not display or show any adult themed matter in public areas of the hotel
 - Appropriate clothing must be worn while in public areas
@@ -16,6 +21,8 @@
 - Mare Fair is a convention focused on My Little Pony; please keep this in mind when deciding what attire, cosplays, accessories, etc., to wear or exhibit at the convention
 	- Wearing a non-pony fursuit is strongly discouraged as it detracts from this pony focus
 	- Displaying any political symbols or slogans is strongly discouraged; you may be asked to cover or remove these items from convention spaces
+	- Bringing accessories (such as plushies, stickers, posters, clothing, etc.) that feature politically oriented original characters (OCs) is prohibited within the convention space
+		- This includes OCs such as Aryanne, Veronika, Molly Tov, Leslie Fair, etc.
 - Please be cognizant of any attire you may wear that blocks or obscures the view for attendees sitting or standing behind you during panels and events; you may be asked to move to the back if you are wearing large hats, large suit heads, etc.
 - Harassment is not tolerated, including: Non-consensual physical contact, stalking, deliberate disruption of any convention space or other events, threats (verbal or written), property damage, loud profanity or slurs in public areas
 - Photography or recording for commercial purposes is not allowed unless you receive express written consent from Snowpity, Inc.
@@ -47,4 +54,5 @@
 - The possibility for last minute changes exists.  Panels, events, activities, and vendor hall access may be canceled, rescheduled, relocated, or restricted in the number of attendees allowed to be present and other modifications may be made to the event without prior notification or compensation.  Every effort will be made to announce any changes via e-mail, Mare Fair’s website, and social media channels
 - This Code of Conduct may change at any time; if any changes are made before the event, all attendees will be notified via e-mail.  If any changes are made during the event, in addition to e-mail notification we will do our best to ensure word of the changes is distributed to all attendees
 - Failure to abide by this Code of Conduct may result in the offender’s badge and/or badge backer being revoked and confiscated, security/police action, and/or the offender being permanently banned from all future events held by Snowpity, Inc.
+- Mare Fair staff reserve the right to deny or revoke entry to any individual displaying hate symbols, engaging in hate speech, or otherwise violating this Code of Conduct.  Enforcement decisions are made in the interest of maintaining a safe and welcoming environment for all attendees
 - You agree to indemnify, defend, and hold harmless Snowpity, Inc., from any and all damages, losses, claims, liabilities, charges, suits, penalties, costs, and/or expenses, including but not limited to court costs, attorney fees, and expenses, resulting from any act (whether intentional or not), omission, or negligence of any injury to yourself
