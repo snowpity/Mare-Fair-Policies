@@ -1,10 +1,10 @@
 - Mare Fair is an event being held by [Snowpity, Inc.,](https://snowpity.org/) for the purposes of raising money for equine charities and allowing artists within the My Little Pony fandom the opportunity to exhibit their work
 - All attendees and participants must be at least 18 years old
 - All hotel policies, Orange County ordinances, and Florida laws must be followed at all times
-- Mare Fair is an inclusive event built on the spirit of friendship, respect, and kindness
-	- **Symbols, language, or behavior associated with hate groups, promoting the supremacy of one race over another, Nazism, or any ideology promoting hate or discrimination have no place at Mare Fair**
-	- This includes—but is not limited to—imagery such as swastikas, SS insignia, or other hate symbols, as well as advocacy for or minimization of such ideologies
-	- Anyone engaging in such conduct may have their badge revoked without refund and may be banned from future events
+- Mare Fair seeks to promote an environment of friendship, respect, and kindness while including fellow fans from all walks of life
+	- **Symbols, language, or behavior associated with hate groups, racial supremacy, Nazism, or any ideology promoting hate or discrimination are not permitted at Mare Fair**
+	- This includes—but is not limited to—imagery such as swastikas, SS insignia, hammer and sickle, or other symbols associated with violent or totalitarian ideologies, as well as advocacy for or minimization of such beliefs
+	- Anyone engaging in such conduct may have their badge revoked without refund and may be prohibited from attending future events
 - Any action or behavior that causes significant interference with convention operations or adversely affects the relationship of Snowpity, Inc., with its guests, its venues, or the public is strictly forbidden and may result in permanent suspension of ability to attend future events held by Snowpity, Inc.
 - Smoking and vaping are not allowed on hotel property
 - Please avoid excessive use of substances that are impairing while enjoying Mare Fair.  If staff believe you are excessively intoxicated, you may be asked to leave the convention space
