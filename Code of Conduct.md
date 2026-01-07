@@ -7,7 +7,7 @@
 	- Anyone engaging in such conduct may have their badge revoked without refund and may be prohibited from attending future events
 - Any action or behavior that causes significant interference with convention operations or adversely affects the relationship of Snowpity, Inc., with its guests, its venues, or the public is strictly forbidden and may result in permanent suspension of ability to attend future events held by Snowpity, Inc.
 - Smoking and vaping are not allowed on hotel property
-- Please avoid excessive use of substances that are impairing while attending Mare Fair.  If staff believe you are excessively intoxicated, you may be asked to leave the convention space
+- For the safety and comfort of all attendees, individuals who are visibly intoxicated or impaired by alcohol or other substances may be required to leave convention spaces at the discretion of Mare Fair staff
 - Consumption of alcoholic beverages is not allowed outside of designated areas while on hotel property
 - Do not display or show any adult themed matter in public areas of the hotel
 - Appropriate clothing must be worn while in public areas
