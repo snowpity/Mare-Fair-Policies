@@ -1,5 +1,5 @@
 # Privacy Policy
-**Last updated: January 28, 2025**
+**Last updated: January 6, 2026**
 
 This Privacy Notice for Snowpity, Inc. (doing business as Mare Fair) ("**we**," "**us**," or "**our**"), describes how and why we might access, collect, store, use, and/or share ("**process**") your personal information when you use our services ("**Services**"), including when you engage with us in other related ways, including any sales, marketing, or events.
 
@@ -45,7 +45,7 @@ Want to learn more about what we do with any information we collect? [Review the
 ## What information do we collect?
 ### Personal information you disclose to us
 
-***In Short**: We collect personal information that you provide to us.*
+***In Short**: We collect personal information that you provide to us or our venue partner.*
 
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
@@ -57,6 +57,14 @@ We collect personal information that you voluntarily provide to us when you expr
 - mailing addresses
 - contact preferences
 - billing addresses
+
+**Personal Information Provided by You to Our Venue**. We may collect personal information you provide to our venue partner when you book a room in our block using the provided link or over the phone.  The information may include the following:
+
+- names
+- phone numbers
+- email addresses
+- mailing addresses
+- reservation information
 
 **Sensitive Information**. We do not process sensitive information.
 
@@ -125,7 +133,7 @@ We have collected the following categories of personal information in the past t
 | Category                                                               | Examples                                                                                                                                                                                                 | Collected |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: |
 | A. Identifiers                                                         | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name |    Yes    |
-| B. Protected classification characteristics under state or federal law | Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data                                                                                              |    No     |
+| B. Protected classification characteristics under state or federal law | Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data                                                                                              |    Yes    |
 | C. Commercial information                                              | Transaction information, purchase history, financial details, and payment information                                                                                                                    |    Yes    |
 | D. Biometric information                                               | Fingerprints and voiceprints                                                                                                                                                                             |    No     |
 | E. Internet or other similar network activity                          | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements                                                |    No     |
