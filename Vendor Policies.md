@@ -42,7 +42,7 @@ The vendor agrees to allow Snowpity, Inc., and its staff to act as their agents 
 
 Hotel spaces or property may not be damaged or modified in any way. Any vendor that causes damage to hotel space or property may be held legally and financially responsible for any damages.
 
-**Use of Snowpity, Inc., logos and other branding**: Before using or selling logos or branding (including mascots) that belong to Snowpity, Inc., explicit permission must be received from the Snowpity, Inc., Board of Directors.
+**Use of Snowpity, Inc., logos and other branding**: Before using or selling logos or branding (including mascots) that belong to Snowpity, Inc., explicit permission must be received from the Snowpity, Inc., Board of Directors.  You can request this permission [by filling out and submitting this form](https://forms.gle/EDhxJXe8dFvusXNe6).
 
 **Hold Harmless**: You agree to indemnify, defend, and hold harmless Snowpity, Inc., from any and all damages, losses, claims, liabilities, charges, suits, penalties, costs, and/or expenses, including but not limited to court costs, attorney fees, and expenses, resulting from any act (whether intentional or not), omission, or negligence of any injury to yourself, your staff, or your customers.
 
